@@ -1,0 +1,140 @@
+#topbar {
+  background-color: blueviolet;
+  height: 20px;
+  width: 100%;
+}
+body {
+  background-color: rgb(12, 11, 11);
+}
+#container {
+  width: 75%;
+  margin: 0%auto;
+}
+#header {
+  height: 80px;
+  background-color: white;
+}
+#header img {
+  height: 80px;
+}
+#header ul {
+  float: right;
+  margin-top: 25px;
+}
+#header ul li {
+  display: inline;
+  margin-right: 25px;
+}
+#header ul li a {
+  color: green;
+  text-decoration: none;
+  font-size: 20px;
+  background-color: salmon;
+}
+#banner img {
+  width: 100%;
+  padding-bottom: 20px;
+}
+#content1 {
+  width: 32%;
+  height: 300px;
+  background-color: rgba(23, 236, 76, 0.767);
+  float: left;
+  margin-right: 2%;
+}
+#content2 {
+  width: 32%;
+  height: 300px;
+  background-color: rgb(221, 74, 6);
+  float: left;
+}
+#content3 {
+  width: 32%;
+  height: 300px;
+  background-color: red;
+  float: right;
+}
+.heading {
+  color: blanchedalmond;
+  margin-left: 25px;
+  font-size: 30px;
+}
+.para1 {
+  color: black;
+  margin-left: 24px;
+  margin-right: 5px;
+}
+.more {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  background-color: beige;
+  padding-right: 6px;
+  margin-left: 20px;
+}
+#bottom1 {
+  margin-top: 15px;
+  width: 65%;
+  background-color: aquamarine;
+
+  float: left;
+}
+#bottom2 {
+  margin-top: 15px;
+  width: 35%;
+  background-color: rgb(156, 170, 165);
+
+  float: right;
+}
+#botom1 h2 {
+  color: black;
+  margin-left: 20px;
+}
+#bottom1 p {
+  color: black;
+  margin-left: 23px;
+  margin-right: 9px;
+}
+#bottom1 a {
+  margin-left: 20px;
+  color: rgb(205, 50, 89);
+  background-color: white;
+  font: 5px;
+}
+#botom2 h2 {
+  color: black;
+  margin-left: 20px;
+  font: 80px;
+}
+#bottom2 a {
+  margin-left: 20px;
+  color: rgb(236, 138, 25);
+  background-color: rgb(218, 236, 230);
+  font: 5px;
+}
+#footer {
+  width: 100%;
+  height: 60px;
+  background-color: rgb(1, 1, 12);
+  clear: both;
+}
+#footer ul {
+  float: left;
+  margin-top: 25px;
+}
+#footer ul li {
+  display: inline;
+  margin-right: 25px;
+}
+#footer ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  background-color: rgb(241, 34, 11);
+}
+#footer p {
+  color: white;
+  float: right;
+  background-color: blue;
+  font-size: larger;
+}
